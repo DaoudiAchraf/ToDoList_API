@@ -1,0 +1,19 @@
+{
+  "name": "uvy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Daoudi Achraf",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "mongoose": "^6.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
